@@ -31,7 +31,7 @@ const Projects = () => {
       description: "A simple photoshop copy in python",
       tech: ["Python"],
       status: "In Development",
-      github: "github.com/NNS-Development/imageshop/",
+      github: "github.com/NNS-Development/Imageshop/",
     }
   ];
 
