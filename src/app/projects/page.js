@@ -18,6 +18,20 @@ const Projects = () => {
       tech: ["Python"],
       status: "Beta",
       github: "github.com/NNS-Development/Grand-Grid-Odyssey/",
+    },
+    {
+      title: "Ether",
+      description: "An Inremental Game",
+      tech: ["Python"],
+      status: "In Development",
+      github: "github.com/NNS-Development/ether/",
+    },
+    {
+      title: "ImageShop",
+      description: "A simple photoshop copy in python",
+      tech: ["Python"],
+      status: "In Development",
+      github: "github.com/NNS-Development/imageshop/",
     }
   ];
 
